@@ -90,14 +90,13 @@ When I'm not coding, I'm creating content on **YouTube**, writing on **Medium**,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Addagudi-Sathvik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Addagudi-Sathvik&theme=tokyonight" alt="GitHub Profile Details" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Addagudi-Sathvik&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=Addagudi-Sathvik&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addagudi-Sathvik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Addagudi-Sathvik&theme=tokyonight" alt="Top Languages" height="180"/>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
