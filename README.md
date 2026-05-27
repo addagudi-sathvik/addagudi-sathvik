@@ -1,18 +1,36 @@
-<!-- Profile README for Addagudi-Sathvik -->
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Addagudi-Sathvik&label=Profile%20Views&color=0e75b6&style=flat-square)
+<!-- Animated gradient header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Addagudi%20Sathvik&fontSize=52&fontColor=38BDF8&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Developer&descAlignY=58&descSize=20&descColor=94a3b8&animation=fadeIn" alt="Header" />
 
-### Hi there, I'm Addagudi Sathvik 👋
+<!-- Profile views + follower badges inline -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Addagudi-Sathvik&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Addagudi-Sathvik?label=Followers&style=flat-square&color=38BDF8&labelColor=0f172a" alt="Followers" />
+</p>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="120" alt="Waving hand" />
+<!-- Wave gif + name side by side using a table -->
+<table border="0" align="center">
+  <tr>
+    <td align="right" width="50%">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60" alt="Hi" />
+    </td>
+    <td align="left" width="50%">
+      <h2>Hi, I'm Sathvik &nbsp;👨‍💻</h2>
+    </td>
+  </tr>
+</table>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+scalable+web+%26+AI+products;Turning+ideas+into+impactful+code)](https://git.io/typing-svg)
+<!-- Typing SVG — stronger contrast, more lines -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=800&color=38BDF8&background=0D1117&center=true&vCenter=true&multiline=false&width=640&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+scalable+web+%26+AI+products+%F0%9F%A7%A0;Turning+ideas+into+impactful+code+%E2%9C%A8;MERN+%7C+Python+%7C+GenAI+%7C+DSA+%F0%9F%8F%86)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Subtle separator -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf3/images/marquee.svg" width="100%" alt="separator"/>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
