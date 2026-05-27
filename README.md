@@ -1,30 +1,22 @@
 <div align="center">
 
-<!-- HERO BANNER — name + tagline baked in -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=220&section=header&text=Addagudi%20Sathvik&fontSize=50&fontColor=38BDF8&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descColor=94a3b8&descAlignY=58" />
-
-<!-- GREETING GIF -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
-&nbsp;**Hi there! I'm Sathvik — glad you're here.**
-
-<br/>
-
-<!-- BADGES ROW -->
-<img src="https://komarev.com/ghpvc/?username=Addagudi-Sathvik&label=Profile+Views&color=38BDF8&style=for-the-badge&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Addagudi-Sathvik?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0d1117" />
-
-<br/><br/>
+<!-- HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Addagudi%20Sathvik&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descColor=38BDF8&descAlignY=58" alt="header"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Python+%7C+GenAI+%7C+DSA;Building+scalable+web+%26+AI+products;Turning+ideas+into+impactful+code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sathvik+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Python+%7C+GenAI+%7C+DSA;Turning+ideas+into+impactful+code+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- RELIABLE ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=Addagudi-Sathvik&label=Profile+Views&color=0e75b6&style=flat-square" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/Addagudi-Sathvik?label=Followers&style=flat-square&color=0e75b6" />
+
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
